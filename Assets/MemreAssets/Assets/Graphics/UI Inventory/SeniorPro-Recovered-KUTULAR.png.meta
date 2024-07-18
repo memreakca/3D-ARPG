@@ -1,0 +1,260 @@
+fileFormatVersion: 2
+guid: 15b4638b96d55784ebfcac2c8f22504b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SeniorPro-Recovered-KUTULAR_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 39
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56381954ecc2e324eb9b9138a431a9e0
+      internalID: -1938005453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeniorPro-Recovered-KUTULAR_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 94
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd724d2167448fb4db06ba20f86b3958
+      internalID: -1201676948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeniorPro-Recovered-KUTULAR_5
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 87
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02535c46433ff5d4a921139126999b75
+      internalID: -500750364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeniorPro-Recovered-KUTULAR_16
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 46
+        width: 46
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb556a90e8bc694fb054972a0e55bf1
+      internalID: 1749143481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeniorPro-Recovered-KUTULAR_24
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 8
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a6ed16c7032104bb6782e592a7918a
+      internalID: -1390856567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d9217d578feeb1c4c84c8142a4ef3965
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SeniorPro-Recovered-KUTULAR_0: -1938005453
+      SeniorPro-Recovered-KUTULAR_1: 377004597
+      SeniorPro-Recovered-KUTULAR_10: 714476297
+      SeniorPro-Recovered-KUTULAR_11: -417705903
+      SeniorPro-Recovered-KUTULAR_12: -1509292533
+      SeniorPro-Recovered-KUTULAR_13: 1195440404
+      SeniorPro-Recovered-KUTULAR_14: -1872948385
+      SeniorPro-Recovered-KUTULAR_15: 540331363
+      SeniorPro-Recovered-KUTULAR_16: 1749143481
+      SeniorPro-Recovered-KUTULAR_17: 407889769
+      SeniorPro-Recovered-KUTULAR_18: 1709510594
+      SeniorPro-Recovered-KUTULAR_19: 159413633
+      SeniorPro-Recovered-KUTULAR_2: -1201676948
+      SeniorPro-Recovered-KUTULAR_20: -895062804
+      SeniorPro-Recovered-KUTULAR_21: 989033080
+      SeniorPro-Recovered-KUTULAR_22: 1656823355
+      SeniorPro-Recovered-KUTULAR_23: -410926793
+      SeniorPro-Recovered-KUTULAR_24: -1390856567
+      SeniorPro-Recovered-KUTULAR_25: -339083222
+      SeniorPro-Recovered-KUTULAR_26: -1769996491
+      SeniorPro-Recovered-KUTULAR_27: 507406356
+      SeniorPro-Recovered-KUTULAR_3: -1038277414
+      SeniorPro-Recovered-KUTULAR_4: -74648562
+      SeniorPro-Recovered-KUTULAR_5: -500750364
+      SeniorPro-Recovered-KUTULAR_6: -1057482616
+      SeniorPro-Recovered-KUTULAR_7: 2054159950
+      SeniorPro-Recovered-KUTULAR_8: -881142592
+      SeniorPro-Recovered-KUTULAR_9: -1930995919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

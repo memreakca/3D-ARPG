@@ -1,0 +1,2531 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &213542782905913918
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2898205011931190062}
+  m_Layer: 7
+  m_Name: drago_LArmPalm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2898205011931190062
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 213542782905913918}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7152778, y: 0.02633072, z: -0.017630229, w: 0.6981215}
+  m_LocalPosition: {x: -0.30732533, y: -0.000000024223327, z: 0}
+  m_LocalScale: {x: 0.9999875, y: 1.000003, z: 1.0000072}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 292243714776718299}
+  - {fileID: 4071914443633911037}
+  - {fileID: 4207996872654204458}
+  m_Father: {fileID: 1393868604522796525}
+  m_LocalEulerAnglesHint: {x: -71.71925, y: 138.60132, z: -137.2279}
+--- !u!1 &386237854145490444
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 292243714776718299}
+  m_Layer: 7
+  m_Name: drago_LArmDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &292243714776718299
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 386237854145490444}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.1499372, y: 0.38249826, z: 0.073949315, w: 0.90870535}
+  m_LocalPosition: {x: -0.050864916, y: -0.0075131073, z: 0.06925638}
+  m_LocalScale: {x: 0.9999972, y: 1.0000001, z: 1.0000067}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6741723861200906621}
+  m_Father: {fileID: 2898205011931190062}
+  m_LocalEulerAnglesHint: {x: 12.469959, y: 47.278683, z: 14.780432}
+--- !u!1 &503773645294262935
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5214149047141182605}
+  m_Layer: 7
+  m_Name: drago_LArmDigit13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5214149047141182605
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 503773645294262935}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000095002136, y: -0.000000024041073, z: 0.09506029, w: 0.99547154}
+  m_LocalPosition: {x: -0.080930285, y: 0, z: 0.000000048446655}
+  m_LocalScale: {x: 0.99999255, y: 1.0000029, z: 1.0000198}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6741723861200906621}
+  m_LocalEulerAnglesHint: {x: 0.000006740661, y: -0.0000052323862, z: 10.909633}
+--- !u!1 &594301188353531350
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3553864325300337555}
+  m_Layer: 7
+  m_Name: drago_RArmPalm
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3553864325300337555
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 594301188353531350}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.7482153, y: -0.008966204, z: -0.015535959, w: 0.6632135}
+  m_LocalPosition: {x: -0.30732533, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999845, y: 1.0000006, z: 1.0000013}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2722012260851915522}
+  - {fileID: 1330129359828551559}
+  - {fileID: 7559257679956617678}
+  m_Father: {fileID: 8284039737082079646}
+  m_LocalEulerAnglesHint: {x: 78.367386, y: -153.45378, z: -160.80177}
+--- !u!1 &605661773907950667
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1612766561121125546}
+  m_Layer: 7
+  m_Name: drago_RLegDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1612766561121125546
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 605661773907950667}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.02638004, y: 0.050870266, z: -0.4585708, w: 0.88680845}
+  m_LocalPosition: {x: -0.40641055, y: 0.0064516305, z: 0.078973524}
+  m_LocalScale: {x: 1.0000038, y: 0.99999577, z: 0.99999946}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1661091678203567953}
+  m_Father: {fileID: 4189446251895850503}
+  m_LocalEulerAnglesHint: {x: 5.361531, y: 3.783387, z: -54.506058}
+--- !u!1 &780476404472051917
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5855578317951477551}
+  m_Layer: 7
+  m_Name: drago_RArmDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5855578317951477551
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 780476404472051917}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000001218554, y: 0.000000056500674, z: 0.094728, w: 0.9955032}
+  m_LocalPosition: {x: -0.080930404, y: -0.000000048446655, z: 0.000000048446655}
+  m_LocalScale: {x: 1, y: 1.0000019, z: 0.9999993}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2202392712002677281}
+  m_Father: {fileID: 2722012260851915522}
+  m_LocalEulerAnglesHint: {x: 0.000012060718, y: -0.0000034760344, z: 10.871269}
+--- !u!1 &1319154393160868347
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2722012260851915522}
+  m_Layer: 7
+  m_Name: drago_RArmDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2722012260851915522
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1319154393160868347}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.1559413, y: -0.38491842, z: 0.07129317, w: 0.90688336}
+  m_LocalPosition: {x: -0.050864965, y: -0.0075139794, z: -0.069256335}
+  m_LocalScale: {x: 0.9999978, y: 1.000001, z: 1.0000015}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5855578317951477551}
+  m_Father: {fileID: 3553864325300337555}
+  m_LocalEulerAnglesHint: {x: -13.17687, y: -47.720074, z: 14.8388405}
+--- !u!1 &1387719859157785000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4917015456709524782}
+  m_Layer: 7
+  m_Name: drago_LArmCollarbone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4917015456709524782
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1387719859157785000}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.10361947, y: 0.6497441, z: 0.09953864, w: 0.74645007}
+  m_LocalPosition: {x: -0, y: 0, z: 0.09112233}
+  m_LocalScale: {x: 1.0000002, y: 1, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5858108652351665590}
+  m_Father: {fileID: 8782055183263740590}
+  m_LocalEulerAnglesHint: {x: 1.452294, y: 82.285645, z: 16.459908}
+--- !u!1 &1713157201283511457
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8914606875695551115}
+  m_Layer: 7
+  m_Name: drago_neck3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8914606875695551115
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1713157201283511457}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0033263825, y: 0.004047032, z: -0.06406132, w: 0.9979322}
+  m_LocalPosition: {x: -0.19118038, y: 0, z: 3.784895e-10}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 215304577795278516}
+  m_Father: {fileID: 2855746268619043311}
+  m_LocalEulerAnglesHint: {x: 0.43698034, y: 0.38435715, z: -0.074216485}
+--- !u!1 &1731759006913035818
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5665432523994966421}
+  m_Layer: 7
+  m_Name: drago_RLeg2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5665432523994966421
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1731759006913035818}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.041365072, y: -0.12779294, z: 0.61236906, w: 0.7790777}
+  m_LocalPosition: {x: -0.44914362, y: 0.000000012111664, z: 0}
+  m_LocalScale: {x: 1.0000033, y: 0.99999744, z: 0.9999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4189446251895850503}
+  m_Father: {fileID: 6289671276588629564}
+  m_LocalEulerAnglesHint: {x: 11.887894, y: -8.47647, z: 69.44438}
+--- !u!1 &1806347741217288489
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2350801963867773455}
+  m_Layer: 7
+  m_Name: drago_Tail1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2350801963867773455
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1806347741217288489}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.015744155, y: -0.00020934225, z: 0.99827796, w: 0.056509174}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4204822206076556742}
+  m_Father: {fileID: 262582002130274072}
+  m_LocalEulerAnglesHint: {x: 0.12589568, y: 1.7999783, z: 173.52225}
+--- !u!1 &2095370198713885476
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 545532225521302807}
+  m_Layer: 7
+  m_Name: drago_RArmCollarbone
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &545532225521302807
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2095370198713885476}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.072018, y: -0.665601, z: 0.09968412, w: 0.7361058}
+  m_LocalPosition: {x: -0, y: -0.00000009689331, z: -0.091122344}
+  m_LocalScale: {x: 1.0000002, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4491535486525805766}
+  m_Father: {fileID: 8782055183263740590}
+  m_LocalEulerAnglesHint: {x: 1.5284945, y: -84.05267, z: 14.046713}
+--- !u!1 &2163580458134129312
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2202392712002677281}
+  m_Layer: 7
+  m_Name: drago_RArmDigit13
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2202392712002677281
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2163580458134129312}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000012185522, y: 0.000000056500614, z: 0.09472797, w: 0.99550325}
+  m_LocalPosition: {x: -0.080930255, y: 0, z: 0}
+  m_LocalScale: {x: 1.000001, y: 1.0000033, z: 0.99999857}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5855578317951477551}
+  m_LocalEulerAnglesHint: {x: 0.000008641201, y: 0.0000060133793, z: 10.871216}
+--- !u!1 &2227481914017308648
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 308512208090752345}
+  m_Layer: 7
+  m_Name: drago_LLegDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &308512208090752345
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2227481914017308648}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000020752829, y: 0.00000001490119, z: 0.000000007068097,
+    w: 1}
+  m_LocalPosition: {x: -0.15416856, y: 0, z: 0.000000012111664}
+  m_LocalScale: {x: 0.9999997, y: 1, z: 0.99999964}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3784948373627584630}
+  m_LocalEulerAnglesHint: {x: -0.0000027748672, y: 0.0000064135497, z: -0.0000025351294}
+--- !u!1 &2348803747735989227
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2430104416663288512}
+  m_Layer: 7
+  m_Name: drago_tongue_01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2430104416663288512
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2348803747735989227}
+  serializedVersion: 2
+  m_LocalRotation: {x: 7.2465126e-15, y: 2.3310846e-15, z: 0.060388975, w: 0.9981749}
+  m_LocalPosition: {x: -0.15458004, y: -0.015541493, z: 0.000000014004111}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6282484952736852131}
+  m_Father: {fileID: 5927459115259662204}
+  m_LocalEulerAnglesHint: {x: 0.0000061966384, y: -0.0000037738596, z: 6.9242845}
+--- !u!1 &2463922446251935297
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 996674778401091087}
+  m_Layer: 7
+  m_Name: drago_RArmDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &996674778401091087
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2463922446251935297}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000040361666, y: 0.000000057545304, z: 0.053038754, w: 0.9985925}
+  m_LocalPosition: {x: -0.06842877, y: 0.000000048446655, z: -0.000000048446655}
+  m_LocalScale: {x: 0.9999935, y: 1.0000049, z: 1.0000027}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1978899269751689299}
+  m_Father: {fileID: 7559257679956617678}
+  m_LocalEulerAnglesHint: {x: 0.0000042516185, y: 0.00000045291276, z: 6.0806255}
+--- !u!1 &2582896833240750153
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4207996872654204458}
+  m_Layer: 7
+  m_Name: drago_LArmDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4207996872654204458
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2582896833240750153}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.009215853, y: -0.07366693, z: 0.2187388, w: 0.9729551}
+  m_LocalPosition: {x: -0.17345966, y: 0.016027123, z: -0.08178217}
+  m_LocalScale: {x: 0.9999988, y: 1.0000006, z: 1.0000048}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4863736725565192845}
+  m_Father: {fileID: 2898205011931190062}
+  m_LocalEulerAnglesHint: {x: 2.8752005, y: -8.018514, z: 25.13943}
+--- !u!1 &2621166265578565374
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4838826192388695556}
+  - component: {fileID: 1785103434240934929}
+  m_Layer: 7
+  m_Name: dragonewt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4838826192388695556
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2621166265578565374}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+  m_LocalPosition: {x: -0.0000000014463466, y: 1.0447688, z: -0.03308853}
+  m_LocalScale: {x: 45.919277, y: 45.919277, z: 45.919277}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1256248409743274954}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &1785103434240934929
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2621166265578565374}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 6469365671203522939, guid: 86dbad84ca9f5074c8510d1a5741e735, type: 3}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: -9170095015751130117, guid: 86dbad84ca9f5074c8510d1a5741e735, type: 3}
+  m_Bones:
+  - {fileID: 215304577795278516}
+  - {fileID: 5927459115259662204}
+  - {fileID: 6282484952736852131}
+  - {fileID: 8782055183263740590}
+  - {fileID: 8914606875695551115}
+  - {fileID: 2855746268619043311}
+  - {fileID: 2430104416663288512}
+  - {fileID: 651234571153473594}
+  - {fileID: 4886556369021779719}
+  - {fileID: 1578659127126044482}
+  - {fileID: 4491535486525805766}
+  - {fileID: 545532225521302807}
+  - {fileID: 4917015456709524782}
+  - {fileID: 5858108652351665590}
+  - {fileID: 4761450174973013368}
+  - {fileID: 262582002130274072}
+  - {fileID: 5297021896974826905}
+  - {fileID: 8284039737082079646}
+  - {fileID: 3553864325300337555}
+  - {fileID: 2722012260851915522}
+  - {fileID: 5855578317951477551}
+  - {fileID: 2202392712002677281}
+  - {fileID: 1330129359828551559}
+  - {fileID: 5229028339369870714}
+  - {fileID: 7559257679956617678}
+  - {fileID: 4483900424510556779}
+  - {fileID: 996674778401091087}
+  - {fileID: 1978899269751689299}
+  - {fileID: 6289671276588629564}
+  - {fileID: 9094821469115285417}
+  - {fileID: 4189446251895850503}
+  - {fileID: 1612766561121125546}
+  - {fileID: 1661091678203567953}
+  - {fileID: 6695956644315225491}
+  - {fileID: 5665432523994966421}
+  - {fileID: 266809928183471408}
+  - {fileID: 2350801963867773455}
+  - {fileID: 4204822206076556742}
+  - {fileID: 5071508562620371634}
+  - {fileID: 5112267364051017945}
+  - {fileID: 5838127707309170359}
+  - {fileID: 1393868604522796525}
+  - {fileID: 2898205011931190062}
+  - {fileID: 292243714776718299}
+  - {fileID: 6741723861200906621}
+  - {fileID: 5214149047141182605}
+  - {fileID: 4071914443633911037}
+  - {fileID: 503916357508217269}
+  - {fileID: 2423792714885222870}
+  - {fileID: 4207996872654204458}
+  - {fileID: 4863736725565192845}
+  - {fileID: 3038184791003337626}
+  - {fileID: 8372477070238191186}
+  - {fileID: 2196768472186532385}
+  - {fileID: 3784948373627584630}
+  - {fileID: 308512208090752345}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 262582002130274072}
+  m_AABB:
+    m_Center: {x: -0.2875285, y: 0.2613219, z: 0.0000014305115}
+    m_Extent: {x: 1.3529665, y: 0.86933744, z: 1.0503223}
+  m_DirtyAABB: 0
+--- !u!1 &2734598689179446854
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 423208499235902507}
+  m_Layer: 7
+  m_Name: drago_LLegPlatform
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &423208499235902507
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734598689179446854}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.60460734, y: -0.60460716, z: -0.36667427, w: 0.3666744}
+  m_LocalPosition: {x: -0.2884322, y: -0.000000045417057, z: 0.024245946}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1256248409743274954}
+  m_LocalEulerAnglesHint: {x: 0.000017533277, y: -117.52914, z: -90.00001}
+--- !u!1 &2963169012571719361
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5229028339369870714}
+  m_Layer: 7
+  m_Name: drago_RArmDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5229028339369870714
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2963169012571719361}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000007291744, y: 0.00000042756452, z: 0.082827345, w: 0.9965639}
+  m_LocalPosition: {x: -0.08913322, y: -0.000000024223327, z: 0}
+  m_LocalScale: {x: 0.9999971, y: 1.0000013, z: 1.0000027}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4483900424510556779}
+  m_Father: {fileID: 1330129359828551559}
+  m_LocalEulerAnglesHint: {x: -0.000008154327, y: 0.00005630902, z: 9.502152}
+--- !u!1 &3034896360791691843
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4483900424510556779}
+  - component: {fileID: 6753290698321374736}
+  - component: {fileID: 250484315054575937}
+  m_Layer: 7
+  m_Name: drago_RArmDigit23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4483900424510556779
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3034896360791691843}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000010290171, y: 0.00000039602344, z: 0.07104635, w: 0.99747306}
+  m_LocalPosition: {x: -0.086670846, y: -0.000000024223327, z: 0}
+  m_LocalScale: {x: 0.99999475, y: 1.000002, z: 1.0000052}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5229028339369870714}
+  m_LocalEulerAnglesHint: {x: -0.0000057666857, y: 0.00005506255, z: 8.148131}
+--- !u!135 &6753290698321374736
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3034896360791691843}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.65
+  m_Center: {x: -0.025527734, y: 0.00000014092907, z: 0.0000000049678968}
+--- !u!114 &250484315054575937
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3034896360791691843}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57bed4c5dde7c96468af367e278a38a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageAmount: 0
+  damageApplied: 0
+--- !u!1 &3075518374645507151
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8782055183263740590}
+  m_Layer: 7
+  m_Name: drago_ribs
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8782055183263740590
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3075518374645507151}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0015617937, y: -0.0011145967, z: -0.038243145, w: 0.9992666}
+  m_LocalPosition: {x: -0.24386007, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.99999976, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4917015456709524782}
+  - {fileID: 651234571153473594}
+  - {fileID: 545532225521302807}
+  m_Father: {fileID: 5297021896974826905}
+  m_LocalEulerAnglesHint: {x: -0.15051188, y: -0.18255015, z: -6.1443386}
+--- !u!1 &3641151164433677946
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1393868604522796525}
+  m_Layer: 7
+  m_Name: drago_LArm2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1393868604522796525
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3641151164433677946}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.054136444, y: 0.19843653, z: -0.47108945, w: 0.8577686}
+  m_LocalPosition: {x: -0.3532887, y: -0.0000032943726, z: -0.0000023254395}
+  m_LocalScale: {x: 1.0000131, y: 0.9999964, z: 0.99999326}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2898205011931190062}
+  m_Father: {fileID: 5858108652351665590}
+  m_LocalEulerAnglesHint: {x: 12.072535, y: 13.623296, z: -39.558666}
+--- !u!1 &3657386747989848623
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4071914443633911037}
+  m_Layer: 7
+  m_Name: drago_LArmDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4071914443633911037
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3657386747989848623}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0034595309, y: 0.07270081, z: 0.1904257, w: 0.97899985}
+  m_LocalPosition: {x: -0.18663299, y: 0.021344384, z: 0.04509119}
+  m_LocalScale: {x: 0.9999988, y: 1.0000005, z: 1.0000045}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 503916357508217269}
+  m_Father: {fileID: 2898205011931190062}
+  m_LocalEulerAnglesHint: {x: -1.9749082, y: 8.112321, z: 21.87426}
+--- !u!1 &3777209547533059162
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7559257679956617678}
+  m_Layer: 7
+  m_Name: drago_RArmDigit31
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7559257679956617678
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3777209547533059162}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0018180686, y: 0.07780932, z: 0.21776603, w: 0.9728928}
+  m_LocalPosition: {x: -0.17346169, y: 0.016026832, z: 0.08178202}
+  m_LocalScale: {x: 0.9999952, y: 1.0000037, z: 1.0000014}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 996674778401091087}
+  m_Father: {fileID: 3553864325300337555}
+  m_LocalEulerAnglesHint: {x: -2.144827, y: 8.668301, z: 25.070862}
+--- !u!1 &3802234528565656256
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3038184791003337626}
+  m_Layer: 7
+  m_Name: drago_LArmDigit33
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3038184791003337626
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3802234528565656256}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000070804525, y: -0.00000047741935, z: 0.05445157, w: 0.99851644}
+  m_LocalPosition: {x: -0.06750576, y: 0.000000024223327, z: -0.000000012111664}
+  m_LocalScale: {x: 0.9999916, y: 1.0000054, z: 1.000018}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4863736725565192845}
+  m_LocalEulerAnglesHint: {x: 0.0000051895654, y: -0.000056634613, z: 6.2427883}
+--- !u!1 &4066896732782464883
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8409976397734853939}
+  m_Layer: 7
+  m_Name: drago_Spine1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8409976397734853939
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4066896732782464883}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00065103115, y: -0.00072686456, z: 0.02343535, w: 0.9997249}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4761450174973013368}
+  m_Father: {fileID: 262582002130274072}
+  m_LocalEulerAnglesHint: {x: -0.045648135, y: -0.0872865, z: 0.9243679}
+--- !u!1 &4238206203265059874
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8372477070238191186}
+  m_Layer: 7
+  m_Name: drago_LLegDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8372477070238191186
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4238206203265059874}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.02640741, y: -0.05083466, z: -0.45878246, w: 0.88670015}
+  m_LocalPosition: {x: -0.40641055, y: 0.0064517683, z: -0.078973494}
+  m_LocalScale: {x: 0.99999845, y: 1.0000017, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2196768472186532385}
+  m_Father: {fileID: 5112267364051017945}
+  m_LocalEulerAnglesHint: {x: -5.363542, y: -3.796308, z: -54.536613}
+--- !u!1 &4341956990057808224
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1330129359828551559}
+  m_Layer: 7
+  m_Name: drago_RArmDigit21
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1330129359828551559
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4341956990057808224}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0006738886, y: -0.07486647, z: 0.18975908, w: 0.97897196}
+  m_LocalPosition: {x: -0.18663502, y: 0.021343658, z: -0.045090996}
+  m_LocalScale: {x: 0.9999954, y: 1.0000035, z: 1.0000013}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5229028339369870714}
+  m_Father: {fileID: 3553864325300337555}
+  m_LocalEulerAnglesHint: {x: 1.5525242, y: -8.446964, z: 21.825026}
+--- !u!1 &4465622643126672058
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5112267364051017945}
+  m_Layer: 7
+  m_Name: drago_LLegAnkle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5112267364051017945
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4465622643126672058}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.1720551, y: -0.08898821, z: -0.5938592, w: 0.780903}
+  m_LocalPosition: {x: -0.36819768, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999833, y: 1.0000023, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3784948373627584630}
+  - {fileID: 8372477070238191186}
+  m_Father: {fileID: 5071508562620371634}
+  m_LocalEulerAnglesHint: {x: -17.669489, y: 8.895134, z: -91.13543}
+--- !u!1 &4831965997816126272
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4491535486525805766}
+  m_Layer: 7
+  m_Name: drago_RArm1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4491535486525805766
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4831965997816126272}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.24562068, y: -0.6176654, z: -0.102664694, w: 0.7400134}
+  m_LocalPosition: {x: -0.16668, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999997, y: 1.0000005, z: 0.9999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8284039737082079646}
+  m_Father: {fileID: 545532225521302807}
+  m_LocalEulerAnglesHint: {x: 25.82061, y: -101.95145, z: -60.41815}
+--- !u!1 &4974149155241302907
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1578659127126044482}
+  - component: {fileID: 7834358005142462734}
+  - component: {fileID: 921830525981130705}
+  m_Layer: 7
+  m_Name: drago_tongue_04
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1578659127126044482
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4974149155241302907}
+  serializedVersion: 2
+  m_LocalRotation: {x: 9.730281e-15, y: -2.1884183e-15, z: 0.07911176, w: 0.99686575}
+  m_LocalPosition: {x: -0.07069617, y: 0, z: 3.784895e-10}
+  m_LocalScale: {x: 0.9999988, y: 0.99999905, z: 1.0000005}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4886556369021779719}
+  m_LocalEulerAnglesHint: {x: 0.0000009463739, y: 0.000002340255, z: 9.075018}
+--- !u!135 &7834358005142462734
+SphereCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4974149155241302907}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Radius: 0.69152015
+  m_Center: {x: -0.19152087, y: -0.0000000019626485, z: -0.00000007247134}
+--- !u!114 &921830525981130705
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4974149155241302907}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57bed4c5dde7c96468af367e278a38a2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damageAmount: 0
+  damageApplied: 0
+--- !u!1 &5059381599553234543
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 9094821469115285417}
+  m_Layer: 7
+  m_Name: drago_LLeg1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &9094821469115285417
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5059381599553234543}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.7402342, y: -0.67071676, z: -0.026520541, w: -0.038588}
+  m_LocalPosition: {x: -0.05611547, y: -0.048118282, z: 0.21777977}
+  m_LocalScale: {x: 0.99999994, y: 1, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5071508562620371634}
+  m_Father: {fileID: 262582002130274072}
+  m_LocalEulerAnglesHint: {x: -5.8578796, y: 178.71906, z: -94.22339}
+--- !u!1 &5402250512493637803
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 503916357508217269}
+  m_Layer: 7
+  m_Name: drago_LArmDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &503916357508217269
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5402250512493637803}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000078017194, y: -0.00000048693903, z: 0.0831606, w: 0.9965362}
+  m_LocalPosition: {x: -0.08913317, y: -0.000000072669984, z: 0.000000048446655}
+  m_LocalScale: {x: 0.99999607, y: 1.0000024, z: 1.0000091}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2423792714885222870}
+  m_Father: {fileID: 4071914443633911037}
+  m_LocalEulerAnglesHint: {x: 0.00000960189, y: -0.000051729923, z: 9.540508}
+--- !u!1 &5690106463772710540
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6282484952736852131}
+  m_Layer: 7
+  m_Name: drago_tongue_02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6282484952736852131
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5690106463772710540}
+  serializedVersion: 2
+  m_LocalRotation: {x: 5.5455505e-15, y: -4.0306574e-16, z: -0.061192974, w: 0.998126}
+  m_LocalPosition: {x: -0.07133697, y: 0, z: 3.784895e-10}
+  m_LocalScale: {x: 0.99999964, y: 0.9999998, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4886556369021779719}
+  m_Father: {fileID: 2430104416663288512}
+  m_LocalEulerAnglesHint: {x: 0.0000004297707, y: -0.0000015863636, z: -7.0165844}
+--- !u!1 &5769576095133993679
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1978899269751689299}
+  m_Layer: 7
+  m_Name: drago_RArmDigit33
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1978899269751689299
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5769576095133993679}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000007124963, y: 0.00000048860306, z: 0.05411755, w: 0.99853456}
+  m_LocalPosition: {x: -0.06750576, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999906, y: 1.000006, z: 1.0000054}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 996674778401091087}
+  m_LocalEulerAnglesHint: {x: -0.000007624713, y: 0.000054755732, z: 6.2043934}
+--- !u!1 &5989767953268275941
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6741723861200906621}
+  m_Layer: 7
+  m_Name: drago_LArmDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6741723861200906621
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5989767953268275941}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.00000010700293, y: -0.000000055125064, z: 0.09506079, w: 0.9954715}
+  m_LocalPosition: {x: -0.08093035, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999964, y: 1.000001, z: 1.0000098}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5214149047141182605}
+  m_Father: {fileID: 292243714776718299}
+  m_LocalEulerAnglesHint: {x: -0.000024847344, y: -0.000006271457, z: 10.909625}
+--- !u!1 &6132596550309400145
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 266809928183471408}
+  m_Layer: 7
+  m_Name: drago_RLegDigit12
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &266809928183471408
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6132596550309400145}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000029058713, y: -0.000000037252935, z: 0.00000000776521,
+    w: 1}
+  m_LocalPosition: {x: -0.15416859, y: 0, z: 0.000000012111664}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6695956644315225491}
+  m_LocalEulerAnglesHint: {x: -0.0000037512914, y: -0.000008551399, z: 0.00000013978904}
+--- !u!1 &6254093844485081256
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4761450174973013368}
+  m_Layer: 7
+  m_Name: drago_Spine2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4761450174973013368
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6254093844485081256}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.003708112, y: -0.0063229282, z: -0.016170198, w: 0.9998424}
+  m_LocalPosition: {x: -0.24385999, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999999, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5297021896974826905}
+  m_Father: {fileID: 8409976397734853939}
+  m_LocalEulerAnglesHint: {x: -0.36011463, y: -0.7802904, z: -12.135869}
+--- !u!1 &6359849148486361647
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 651234571153473594}
+  m_Layer: 7
+  m_Name: drago_neck1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &651234571153473594
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6359849148486361647}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00029560726, y: -0.00017469206, z: 0.10640194, w: 0.99432313}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2855746268619043311}
+  m_Father: {fileID: 8782055183263740590}
+  m_LocalEulerAnglesHint: {x: 0.04530626, y: -0.010258473, z: 13.27947}
+--- !u!1 &6370025403469980565
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4204822206076556742}
+  m_Layer: 7
+  m_Name: drago_Tail2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4204822206076556742
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6370025403469980565}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.001256926, y: 0.014423915, z: -0.074393794, w: 0.99712384}
+  m_LocalPosition: {x: -0.33591512, y: 0, z: -0.000000001513958}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5838127707309170359}
+  m_Father: {fileID: 2350801963867773455}
+  m_LocalEulerAnglesHint: {x: -0.7092998, y: -0.050057113, z: 2.387648}
+--- !u!1 &6577029476796817145
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2855746268619043311}
+  m_Layer: 7
+  m_Name: drago_neck2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2855746268619043311
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6577029476796817145}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0016366612, y: 0.0034332124, z: 0.111066274, w: 0.9938057}
+  m_LocalPosition: {x: -0.19118038, y: 0.00000009689331, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8914606875695551115}
+  m_Father: {fileID: 651234571153473594}
+  m_LocalEulerAnglesHint: {x: 0.18290904, y: 0.40680286, z: 19.758173}
+--- !u!1 &6944888543328991954
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5071508562620371634}
+  m_Layer: 7
+  m_Name: drago_LLeg2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5071508562620371634
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6944888543328991954}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.040496588, y: 0.13236085, z: 0.63325465, w: 0.76146525}
+  m_LocalPosition: {x: -0.4491435, y: 0, z: 0.000000024223327}
+  m_LocalScale: {x: 0.9999989, y: 1.0000007, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5112267364051017945}
+  m_Father: {fileID: 9094821469115285417}
+  m_LocalEulerAnglesHint: {x: -14.067728, y: 9.009595, z: 83.74331}
+--- !u!1 &7115167634175186088
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4189446251895850503}
+  m_Layer: 7
+  m_Name: drago_RLegAnkle
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4189446251895850503
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7115167634175186088}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.13153097, y: 0.026035357, z: -0.72404635, w: 0.6765934}
+  m_LocalPosition: {x: -0.3681977, y: -0.000000048446655, z: 0.000000024223327}
+  m_LocalScale: {x: 1.0000064, y: 0.99999464, z: 1.0000005}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6695956644315225491}
+  - {fileID: 1612766561121125546}
+  m_Father: {fileID: 5665432523994966421}
+  m_LocalEulerAnglesHint: {x: 9.09256, y: -11.142585, z: -102.33795}
+--- !u!1 &7206605684833628495
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1537279588027121917}
+  m_Layer: 7
+  m_Name: dragonewt_
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1537279588027121917
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7206605684833628495}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.50000006, y: -0.5, z: -0.4999999, w: 0.5}
+  m_LocalPosition: {x: -0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1256248409743274954}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &7289395655779451551
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5858108652351665590}
+  m_Layer: 7
+  m_Name: drago_LArm1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5858108652351665590
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7289395655779451551}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.19328244, y: 0.62567836, z: -0.07503216, w: 0.75202304}
+  m_LocalPosition: {x: -0.16667935, y: 0.000001550293, z: 0.0000004360199}
+  m_LocalScale: {x: 1.000001, y: 0.99999714, z: 1.0000031}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1393868604522796525}
+  m_Father: {fileID: 4917015456709524782}
+  m_LocalEulerAnglesHint: {x: -26.4045, y: 90.79707, z: -54.46421}
+--- !u!1 &7349346747897039109
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6289671276588629564}
+  m_Layer: 7
+  m_Name: drago_RLeg1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6289671276588629564
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7349346747897039109}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.5858963, y: 0.80849206, z: -0.017553125, w: -0.052516315}
+  m_LocalPosition: {x: -0.05611547, y: -0.048118282, z: -0.21777973}
+  m_LocalScale: {x: 1, y: 1.0000002, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5665432523994966421}
+  m_Father: {fileID: 262582002130274072}
+  m_LocalEulerAnglesHint: {x: 4.190819, y: -176.325, z: -66.34481}
+--- !u!1 &7351999153313083271
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 262582002130274072}
+  m_Layer: 7
+  m_Name: drago_pelvis
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &262582002130274072
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7351999153313083271}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.67856777, y: -0.22444016, z: -0.664029, w: 0.21963137}
+  m_LocalPosition: {x: -0.000000012185187, y: 0.873274, z: -0.27876815}
+  m_LocalScale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9094821469115285417}
+  - {fileID: 6289671276588629564}
+  - {fileID: 8409976397734853939}
+  - {fileID: 2350801963867773455}
+  m_Father: {fileID: 1256248409743274954}
+  m_LocalEulerAnglesHint: {x: 0.0000070436336, y: -91.240845, z: -152.28595}
+--- !u!1 &7389103386175443365
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1256248409743274954}
+  - component: {fileID: 6979665563019383508}
+  - component: {fileID: 155853426509566432}
+  - component: {fileID: 7516082045501471866}
+  - component: {fileID: 2861648220945020578}
+  - component: {fileID: 3079833515211837634}
+  - component: {fileID: 2504470488621310783}
+  - component: {fileID: 2622146903558972857}
+  m_Layer: 7
+  m_Name: dragonewt
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1256248409743274954
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7389103386175443365}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -9.09474, y: 0.00000011920929, z: -14.63}
+  m_LocalScale: {x: 1.6, y: 1.6, z: 1.6}
+  m_ConstrainProportionsScale: 1
+  m_Children:
+  - {fileID: 423208499235902507}
+  - {fileID: 262582002130274072}
+  - {fileID: 3830444882284401477}
+  - {fileID: 4838826192388695556}
+  - {fileID: 1537279588027121917}
+  - {fileID: 8666712077486597996}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!95 &6979665563019383508
+Animator:
+  serializedVersion: 5
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7389103386175443365}
+  m_Enabled: 1
+  m_Avatar: {fileID: 9000000, guid: 86dbad84ca9f5074c8510d1a5741e735, type: 3}
+  m_Controller: {fileID: 9100000, guid: 120ac6f2a39c19946807959b92490455, type: 2}
+  m_CullingMode: 1
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &155853426509566432
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7389103386175443365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe29aa9dd71dbcb4fb139019ccd362b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 0}
+  handdamage: 25
+  biteDamage: 50
+  isAttacking: 0
+  isRunning: 0
+  isMoving: 0
+  isWaiting: 0
+  patrolRadius: 12
+  patrolInterval: 4
+  attackRange: 3.25
+  sightRange: 10
+  attackDuration: 1
+  timeBetweenAttacks: 1
+  speed: 4
+  runSpeed: 7.5
+  patrolPoint: {fileID: 1256248409743274954}
+  doubledSightRange: 0
+  normalSightRange: 0
+  enemytakendmg: {fileID: 0}
+  isdead: 0
+--- !u!114 &7516082045501471866
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7389103386175443365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf3539963e68ec44834fa37d13ce2fd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lootPackage: {fileID: -4109941700246997300, guid: 24cc3603942f33345b44aab42fd416ab,
+    type: 3}
+  dropItems:
+  - dropItem: {fileID: 11400000, guid: 798d403aa07146e46add95f670e291ad, type: 2}
+    amount: 1
+    dropRate: 0.45
+--- !u!114 &2861648220945020578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7389103386175443365}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6775eecf4d47da440a55935e457c53b6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  maxHp: 100
+  currentHp: 0
+  anim: {fileID: 0}
+  hpbar: {fileID: 0}
+  player: {fileID: 0}
+  droploot: {fileID: 0}
+  tookdamage: 0
+--- !u!54 &3079833515211837634
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7389103386175443365}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 128
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!195 &2504470488621310783
+NavMeshAgent:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7389103386175443365}
+  m_Enabled: 1
+  m_AgentTypeID: 0
+  m_Radius: 0.5
+  m_Speed: 3.5
+  m_Acceleration: 30
+  avoidancePriority: 50
+  m_AngularSpeed: 300
+  m_StoppingDistance: 0
+  m_AutoTraverseOffMeshLink: 1
+  m_AutoBraking: 0
+  m_AutoRepath: 1
+  m_Height: 2
+  m_BaseOffset: 0
+  m_WalkableMask: 4294967295
+  m_ObstacleAvoidanceType: 4
+--- !u!65 &2622146903558972857
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7389103386175443365}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 1.7319489, y: 1.7180926, z: 1.4237165}
+  m_Center: {x: 0.034189224, y: 0.86055034, z: 0.21185827}
+--- !u!1 &7493197189852074926
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2423792714885222870}
+  m_Layer: 7
+  m_Name: drago_LArmDigit23
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2423792714885222870
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7493197189852074926}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000097729625, y: -0.00000042624862, z: 0.07137964, w: 0.9974492}
+  m_LocalPosition: {x: -0.08667087, y: -0.000000024223327, z: 0.000000048446655}
+  m_LocalScale: {x: 0.99999166, y: 1.0000054, z: 1.000018}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 503916357508217269}
+  m_LocalEulerAnglesHint: {x: 0.000024718835, y: -0.000048597893, z: 8.186501}
+--- !u!1 &7900372397282830382
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5927459115259662204}
+  m_Layer: 7
+  m_Name: drago_jaw
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5927459115259662204
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7900372397282830382}
+  serializedVersion: 2
+  m_LocalRotation: {x: -4.5289622e-10, y: 8.520798e-11, z: -0.52679056, w: 0.84999514}
+  m_LocalPosition: {x: 0.13558707, y: 0.075742565, z: 0.0000000049203632}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2430104416663288512}
+  m_Father: {fileID: 215304577795278516}
+  m_LocalEulerAnglesHint: {x: 0.0000021000872, y: -0.00000030723209, z: -53.577698}
+--- !u!1 &8011361654590147512
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8666712077486597996}
+  - component: {fileID: 4795022923398889939}
+  - component: {fileID: 6720127543596346086}
+  - component: {fileID: 8163914401003363911}
+  m_Layer: 7
+  m_Name: Canvas
+  m_TagString: Enemy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &8666712077486597996
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8011361654590147512}
+  m_LocalRotation: {x: -0.00013964972, y: -0.9986693, z: 0.011636605, w: -0.050241217}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.49999988, y: 0.5, z: 0.49999994}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1110972478322307673}
+  m_Father: {fileID: 1256248409743274954}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: -0.0053420793, y: 3}
+  m_SizeDelta: {x: 10, y: 1}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!223 &4795022923398889939
+Canvas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8011361654590147512}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_RenderMode: 2
+  m_Camera: {fileID: 0}
+  m_PlaneDistance: 100
+  m_PixelPerfect: 0
+  m_ReceivesEvents: 1
+  m_OverrideSorting: 0
+  m_OverridePixelPerfect: 0
+  m_SortingBucketNormalizedSize: 0
+  m_VertexColorAlwaysGammaSpace: 0
+  m_AdditionalShaderChannelsFlag: 25
+  m_UpdateRectTransformForStandalone: 0
+  m_SortingLayerID: 0
+  m_SortingOrder: 0
+  m_TargetDisplay: 0
+--- !u!114 &6720127543596346086
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8011361654590147512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_UiScaleMode: 0
+  m_ReferencePixelsPerUnit: 100
+  m_ScaleFactor: 1
+  m_ReferenceResolution: {x: 800, y: 600}
+  m_ScreenMatchMode: 0
+  m_MatchWidthOrHeight: 0
+  m_PhysicalUnit: 3
+  m_FallbackScreenDPI: 96
+  m_DefaultSpriteDPI: 96
+  m_DynamicPixelsPerUnit: 1
+  m_PresetInfoIsWorld: 1
+--- !u!114 &8163914401003363911
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8011361654590147512}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreReversedGraphics: 1
+  m_BlockingObjects: 0
+  m_BlockingMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+--- !u!1 &8073002132024910743
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1110972478322307673}
+  - component: {fileID: 979031574211411577}
+  - component: {fileID: 5534261123070535377}
+  - component: {fileID: 5959947917912977876}
+  m_Layer: 7
+  m_Name: hp bar
+  m_TagString: Enemy
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1110972478322307673
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8073002132024910743}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8666712077486597996}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 0.1391, y: -0}
+  m_SizeDelta: {x: 5, y: 0.3}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!222 &979031574211411577
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8073002132024910743}
+  m_CullTransparentMesh: 1
+--- !u!114 &5534261123070535377
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8073002132024910743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_Sprite: {fileID: -154784381, guid: 8aa39f68e519bd841b95da42ed316f87, type: 3}
+  m_Type: 3
+  m_PreserveAspect: 0
+  m_FillCenter: 1
+  m_FillMethod: 0
+  m_FillAmount: 1
+  m_FillClockwise: 1
+  m_FillOrigin: 0
+  m_UseSpriteMesh: 0
+  m_PixelsPerUnitMultiplier: 1
+--- !u!114 &5959947917912977876
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8073002132024910743}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d6c5799eab45018428169eaeba24c86e, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1 &8140301028535058392
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1661091678203567953}
+  m_Layer: 7
+  m_Name: drago_RLegDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1661091678203567953
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8140301028535058392}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000006390391, y: -0.000000014901218, z: 0.0000000080364115,
+    w: 1}
+  m_LocalPosition: {x: -0.14176404, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999997, y: 1, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1612766561121125546}
+  m_LocalEulerAnglesHint: {x: 0.000006362911, y: 0.00000641354, z: -0.000001117857}
+--- !u!1 &8171408724935795994
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6695956644315225491}
+  m_Layer: 7
+  m_Name: drago_RLegDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6695956644315225491
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8171408724935795994}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.042468578, y: -0.08227121, z: -0.4573614, w: 0.8844481}
+  m_LocalPosition: {x: -0.41429612, y: 0.015241613, z: -0.09129612}
+  m_LocalScale: {x: 1.0000037, y: 0.9999957, z: 0.9999996}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 266809928183471408}
+  m_Father: {fileID: 4189446251895850503}
+  m_LocalEulerAnglesHint: {x: -8.648511, y: -6.214831, z: -54.21641}
+--- !u!1 &8199436232931568233
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5838127707309170359}
+  m_Layer: 7
+  m_Name: drago_Tail3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5838127707309170359
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8199436232931568233}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0053565507, y: 0.20090643, z: -0.024460152, w: 0.97929037}
+  m_LocalPosition: {x: -0.3359151, y: 0, z: -7.56979e-10}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4204822206076556742}
+  m_LocalEulerAnglesHint: {x: 0.110236414, y: 15.983131, z: 7.9886136}
+--- !u!1 &8207558296333943269
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 215304577795278516}
+  m_Layer: 7
+  m_Name: drago_head
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &215304577795278516
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8207558296333943269}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.002243184, y: 0.00049660646, z: -0.09821519, w: 0.99516255}
+  m_LocalPosition: {x: -0.19118038, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5927459115259662204}
+  m_Father: {fileID: 8914606875695551115}
+  m_LocalEulerAnglesHint: {x: 0.24421734, y: -0.0340774, z: -10.072286}
+--- !u!1 &8339989453667857120
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5297021896974826905}
+  m_Layer: 7
+  m_Name: drago_Spine3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5297021896974826905
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8339989453667857120}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.004469393, y: -0.0066210986, z: -0.068908066, w: 0.9975911}
+  m_LocalPosition: {x: -0.24386011, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8782055183263740590}
+  m_Father: {fileID: 4761450174973013368}
+  m_LocalEulerAnglesHint: {x: -0.49058434, y: -0.8222221, z: -18.184181}
+--- !u!1 &8563266528675352769
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3784948373627584630}
+  m_Layer: 7
+  m_Name: drago_LLegDigit11
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3784948373627584630
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8563266528675352769}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.042473152, y: 0.082290195, z: -0.45757487, w: 0.8843357}
+  m_LocalPosition: {x: -0.41429612, y: 0.015241745, z: 0.09129614}
+  m_LocalScale: {x: 0.9999984, y: 1.0000017, z: 0.9999998}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 308512208090752345}
+  m_Father: {fileID: 5112267364051017945}
+  m_LocalEulerAnglesHint: {x: 8.651789, y: 6.1944246, z: -54.24708}
+--- !u!1 &8583219002016856807
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2196768472186532385}
+  m_Layer: 7
+  m_Name: drago_LLegDigit22
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2196768472186532385
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8583219002016856807}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000003885845, y: 0.000000029802344, z: -0.000000006167922,
+    w: 1}
+  m_LocalPosition: {x: -0.14176401, y: 0, z: 0}
+  m_LocalScale: {x: 1.0000001, y: 1, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 8372477070238191186}
+  m_LocalEulerAnglesHint: {x: -0.000003229651, y: 1.5045921e-12, z: -0.0000023686403}
+--- !u!1 &8594827234732210640
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8284039737082079646}
+  m_Layer: 7
+  m_Name: drago_RArm2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8284039737082079646
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8594827234732210640}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.053457424, y: -0.20906149, z: -0.5019623, w: 0.83753777}
+  m_LocalPosition: {x: -0.3532919, y: 0, z: 0}
+  m_LocalScale: {x: 0.9999994, y: 0.9999999, z: 1.0000008}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3553864325300337555}
+  m_Father: {fileID: 4491535486525805766}
+  m_LocalEulerAnglesHint: {x: -12.062517, y: -13.537067, z: -42.43061}
+--- !u!1 &8830883117818692394
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3830444882284401477}
+  m_Layer: 7
+  m_Name: drago_RLegPlatform
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3830444882284401477
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8830883117818692394}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.392698, y: -0.39269787, z: -0.5880376, w: 0.5880378}
+  m_LocalPosition: {x: 0.28567886, y: -0.00000004541707, z: -0.2062019}
+  m_LocalScale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1256248409743274954}
+  m_LocalEulerAnglesHint: {x: 0.000015395426, y: -67.470856, z: -89.99999}
+--- !u!1 &8975121622491445573
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4886556369021779719}
+  m_Layer: 7
+  m_Name: drago_tongue_03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4886556369021779719
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8975121622491445573}
+  serializedVersion: 2
+  m_LocalRotation: {x: 7.6859516e-15, y: 1.6058528e-15, z: 0.04427012, w: 0.9990196}
+  m_LocalPosition: {x: -0.075064115, y: 0, z: -3.784895e-10}
+  m_LocalScale: {x: 0.99999934, y: 0.9999994, z: 1.0000002}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1578659127126044482}
+  m_Father: {fileID: 6282484952736852131}
+  m_LocalEulerAnglesHint: {x: 0.0000023971716, y: -0.000012723865, z: 5.074637}
+--- !u!1 &9011969656423903505
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4863736725565192845}
+  m_Layer: 7
+  m_Name: drago_LArmDigit32
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4863736725565192845
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9011969656423903505}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000048218585, y: -0.00000006457398, z: 0.053372625, w: 0.9985747}
+  m_LocalPosition: {x: -0.06842877, y: -0.000000048446655, z: -0.000000012111664}
+  m_LocalScale: {x: 0.99999607, y: 1.0000025, z: 1.0000091}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3038184791003337626}
+  m_Father: {fileID: 4207996872654204458}
+  m_LocalEulerAnglesHint: {x: 0.0000021634921, y: 0.0000023820373, z: 6.1189537}

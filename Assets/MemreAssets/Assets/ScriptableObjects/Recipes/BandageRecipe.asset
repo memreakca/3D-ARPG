@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da66fb8463072584395350216de10706, type: 3}
+  m_Name: BandageRecipe
+  m_EditorClassIdentifier: 
+  Name: Bandage
+  uiDisplay: {fileID: 1897062749, guid: f8f89eaa02fee154fa0197bf20a43605, type: 3}
+  result:
+    Name: Bandage
+    Id: 0
+    buffs:
+    - attribute: 5
+      value: 100
+      min: 0
+      max: 0
+  ingredients:
+  - item:
+      Name: Leaves
+      Id: 1
+      buffs: []
+    amount: 2
+  inventoryObject: {fileID: 11400000, guid: 378c86a933312b741a92ab9e0a52e000, type: 2}

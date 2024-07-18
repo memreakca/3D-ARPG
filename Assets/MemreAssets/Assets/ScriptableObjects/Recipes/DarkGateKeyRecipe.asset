@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da66fb8463072584395350216de10706, type: 3}
+  m_Name: DarkGateKeyRecipe
+  m_EditorClassIdentifier: 
+  Name: Dark Gate Key
+  uiDisplay: {fileID: 315089482, guid: f8f89eaa02fee154fa0197bf20a43605, type: 3}
+  result:
+    Name: Gate Key
+    Id: 19
+    buffs: []
+  ingredients:
+  - item:
+      Name: 
+      Id: 20
+      buffs: []
+    amount: 8
+  - item:
+      Name: 
+      Id: 22
+      buffs: []
+    amount: 3
+  - item:
+      Name: 
+      Id: 21
+      buffs: []
+    amount: 3
+  inventoryObject: {fileID: 11400000, guid: 378c86a933312b741a92ab9e0a52e000, type: 2}

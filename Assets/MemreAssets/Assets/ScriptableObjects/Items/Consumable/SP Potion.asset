@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e0d95d0021cf9448b84521c6efd3297, type: 3}
+  m_Name: SP Potion
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: 1660683155, guid: f8f89eaa02fee154fa0197bf20a43605, type: 3}
+  stackable: 1
+  type: 7
+  description: 
+  data:
+    Name: SP Potion
+    Id: 9
+    buffs:
+    - attribute: 6
+      value: 50
+      min: 0
+      max: 0
